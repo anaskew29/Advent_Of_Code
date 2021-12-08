@@ -1,0 +1,15 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\Day2_Dive.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\input.txt
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\Day2_Dive.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\Day2_Dive.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\Day2_Dive.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\ref\Day2_Dive.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\bin\Debug\net6.0\Day2_Dive.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\ref\Day2_Dive.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.genruntimeconfig.cache
