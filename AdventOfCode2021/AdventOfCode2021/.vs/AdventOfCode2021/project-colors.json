@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c75e5243-6808-49ea-ba24-f90bc8778f3d": {
+      "ProjectGuid": "c75e5243-6808-49ea-ba24-f90bc8778f3d",
+      "DisplayName": "Day2_Dive",
+      "ColorIndex": 0
+    },
+    "4cce5306-2803-442b-880f-ad9f05615047": {
+      "ProjectGuid": "4cce5306-2803-442b-880f-ad9f05615047",
+      "DisplayName": "Day2_Dive",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
