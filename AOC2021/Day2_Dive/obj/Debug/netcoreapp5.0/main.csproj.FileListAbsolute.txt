@@ -1,0 +1,16 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.runtimeconfig.dev.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\ref\main.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\bin\Debug\netcoreapp5.0\main.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.csproj.AssemblyReference.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\ref\main.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AOC2021\Day2_Dive\obj\Debug\netcoreapp5.0\main.genruntimeconfig.cache
