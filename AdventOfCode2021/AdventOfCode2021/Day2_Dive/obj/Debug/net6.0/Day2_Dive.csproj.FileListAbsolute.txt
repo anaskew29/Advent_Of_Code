@@ -13,3 +13,4 @@ C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\ref\Day2_Dive.dll
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.pdb
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day2_Dive\obj\Debug\net6.0\Day2_Dive.csproj.AssemblyReference.cache

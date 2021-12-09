@@ -1,0 +1,16 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.csproj.AssemblyReference.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\Day3_Binary_Diagnostic.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\Day3_Binary_Diagnostic.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\Day3_Binary_Diagnostic.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\Day3_Binary_Diagnostic.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\ref\Day3_Binary_Diagnostic.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\Day3_Binary_Diagnostic.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\ref\Day3_Binary_Diagnostic.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\obj\Debug\net6.0\Day3_Binary_Diagnostic.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day3_Binary_Diagnostic\bin\Debug\net6.0\input.txt

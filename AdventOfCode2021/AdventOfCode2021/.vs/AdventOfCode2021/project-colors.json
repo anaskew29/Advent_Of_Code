@@ -10,7 +10,12 @@
       "ProjectGuid": "4cce5306-2803-442b-880f-ad9f05615047",
       "DisplayName": "Day2_Dive",
       "ColorIndex": 1
+    },
+    "f34c677d-5a90-4338-8394-58797996dc1b": {
+      "ProjectGuid": "f34c677d-5a90-4338-8394-58797996dc1b",
+      "DisplayName": "Day3_Binary_Diagnostic",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
