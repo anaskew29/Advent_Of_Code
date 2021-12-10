@@ -17,9 +17,9 @@ class Program
                 }
             }
 
-            Part1(input);
             Console.WriteLine("Part1 = " + Part1(input));
-            //Console.WriteLine("Part2 = " + Part2(reader));
+            Console.WriteLine("Part2 = " + Part2(input));
+            //Part2(input);
         }
         catch (Exception ex)
         {
@@ -70,6 +70,119 @@ class Program
         catch (Exception e)
         {
             throw new Exception("An unexpected error occurred in Part 1: " + e.Message + ": " + e.StackTrace);
+        }
+        return result;
+    }
+
+    public static int Part2(List<string> input)
+    {
+        int result = 0;
+        try
+        {
+            result = GetOxygenGeneratorRating(input) * GetCO2ScrubberRating(input);
+        }
+        catch (Exception e)
+        {
+            throw new Exception("An unexpected error occurred in Part 2: " + e.Message + ": " + e.StackTrace);
+        }
+        return result;
+    }
+
+    // To find oxygen generator rating, determine the most common value (0 or 1) in the current bit position, and keep only numbers with that bit in that position.
+    // If 0 and 1 are equally common, keep values with a 1 in the position being considered.
+    public static int GetOxygenGeneratorRating(List<string> input)
+    {
+        int result = 0;
+        try
+        {
+            List<string> remaining = new List<string>(input);
+            int count = 0;
+            while (remaining.Count > 1)
+            //while (count < 4)
+            {
+                int ones = 0;
+                int zeroes = 0;
+                for (int i = 0; i < remaining.Count; i++)
+                {
+                    if (remaining[i][count] == '1')
+                        ones++;
+                    else if (remaining[i][count] == '0')
+                        zeroes++;
+                }
+                char remove = ones >= zeroes ? '0' : '1';
+                foreach(string item in input)
+                {
+                    if (item[count] == remove)
+                        remaining.Remove(item);
+                }
+                count++;
+            }
+
+            bool[] oxygenGeneratorRating = new bool[remaining[0].Length];
+            for (int i = 0; i < remaining[0].Length; i++)
+            {
+                if (remaining[0][i] == '1')
+                    oxygenGeneratorRating[i] = true;
+                else
+                    oxygenGeneratorRating[i] = false;
+            }
+
+            BitArray oxygenGeneratorRatingBA = new BitArray(oxygenGeneratorRating);
+
+            result = getIntFromBitArray(oxygenGeneratorRatingBA);
+        }
+        catch
+        {
+            throw;
+        }
+        return result;
+    }
+
+    // To find CO2 scrubber rating, determine the least common value (0 or 1) in the current bit position, and keep only numbers with that bit in that position.
+    // If 0 and 1 are equally common, keep values with a 0 in the position being considered.
+    public static int GetCO2ScrubberRating(List<string> input)
+    {
+        int result = 0;
+        try
+        {
+            List<string> remaining = new List<string>(input);
+            int count = 0;
+            while (remaining.Count > 1)
+            {
+                int ones = 0;
+                int zeroes = 0;
+                for (int i = 0; i < remaining.Count; i++)
+                {
+                    if (remaining[i][count] == '1')
+                        ones++;
+                    else if (remaining[i][count] == '0')
+                        zeroes++;
+                }
+                char remove = zeroes > ones ? '0' : '1';
+                foreach (string item in input)
+                {
+                    if (item[count] == remove)
+                        remaining.Remove(item);
+                }
+                count++;
+            }
+
+            bool[] cO2ScrubberRating = new bool[remaining[0].Length];
+            for (int i = 0; i < remaining[0].Length; i++)
+            {
+                if (remaining[0][i] == '1')
+                    cO2ScrubberRating[i] = true;
+                else
+                    cO2ScrubberRating[i] = false;
+            }
+
+            BitArray cO2ScrubberRatingBA = new BitArray(cO2ScrubberRating);
+
+            result = getIntFromBitArray(cO2ScrubberRatingBA);
+        }
+        catch
+        {
+            throw;
         }
         return result;
     }
