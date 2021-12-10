@@ -1,0 +1,16 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.csproj.AssemblyReference.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\Day4_Giant_Squid.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\Day4_Giant_Squid.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\Day4_Giant_Squid.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\Day4_Giant_Squid.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\ref\Day4_Giant_Squid.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\Day4_Giant_Squid.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\ref\Day4_Giant_Squid.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\obj\Debug\net6.0\Day4_Giant_Squid.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day4_Giant_Squid\bin\Debug\net6.0\input.txt

@@ -15,7 +15,12 @@
       "ProjectGuid": "f34c677d-5a90-4338-8394-58797996dc1b",
       "DisplayName": "Day3_Binary_Diagnostic",
       "ColorIndex": 2
+    },
+    "70da6c9e-0190-4b96-bea3-6749d41e3239": {
+      "ProjectGuid": "70da6c9e-0190-4b96-bea3-6749d41e3239",
+      "DisplayName": "Day4_Giant_Squid",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
