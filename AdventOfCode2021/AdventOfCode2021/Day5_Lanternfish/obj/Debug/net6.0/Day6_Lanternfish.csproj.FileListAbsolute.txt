@@ -1,0 +1,16 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\Day6_Lanternfish.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\Day6_Lanternfish.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\Day6_Lanternfish.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\Day6_Lanternfish.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\ref\Day6_Lanternfish.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\Day6_Lanternfish.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\ref\Day6_Lanternfish.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\example.txt
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\input.txt
