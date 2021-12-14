@@ -1,0 +1,17 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\Day5_Hydrothermal_Venture.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\Day5_Hydrothermal_Venture.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\Day5_Hydrothermal_Venture.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\Day5_Hydrothermal_Venture.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\ref\Day5_Hydrothermal_Venture.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\Day5_Hydrothermal_Venture.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.csproj.AssemblyReference.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\ref\Day5_Hydrothermal_Venture.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\obj\Debug\net6.0\Day5_Hydrothermal_Venture.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\input.txt
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Hydrothermal_Venture\bin\Debug\net6.0\example.txt
