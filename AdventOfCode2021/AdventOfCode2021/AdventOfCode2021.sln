@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_Hydrothermal_Venture",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_Lanternfish", "Day5_Lanternfish\Day6_Lanternfish.csproj", "{820E4E1A-D2D4-42D0-9E66-533CF5B951FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7_The_Treachery_of_Whales", "Day7_The_Treachery_of_Whales\Day7_The_Treachery_of_Whales.csproj", "{C548FDF7-3008-424D-A53A-65EB1DF57521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{820E4E1A-D2D4-42D0-9E66-533CF5B951FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{820E4E1A-D2D4-42D0-9E66-533CF5B951FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{820E4E1A-D2D4-42D0-9E66-533CF5B951FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C548FDF7-3008-424D-A53A-65EB1DF57521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C548FDF7-3008-424D-A53A-65EB1DF57521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C548FDF7-3008-424D-A53A-65EB1DF57521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C548FDF7-3008-424D-A53A-65EB1DF57521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

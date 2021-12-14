@@ -14,3 +14,4 @@ C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lante
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.genruntimeconfig.cache
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\example.txt
 C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\bin\Debug\net6.0\input.txt
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day5_Lanternfish\obj\Debug\net6.0\Day6_Lanternfish.csproj.AssemblyReference.cache

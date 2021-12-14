@@ -1,0 +1,17 @@
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\Day7_The_Treachery_of_Whales.exe
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\Day7_The_Treachery_of_Whales.deps.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\Day7_The_Treachery_of_Whales.runtimeconfig.json
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\Day7_The_Treachery_of_Whales.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\ref\Day7_The_Treachery_of_Whales.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\Day7_The_Treachery_of_Whales.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.csproj.AssemblyReference.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.AssemblyInfoInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.AssemblyInfo.cs
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.csproj.CoreCompileInputs.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\ref\Day7_The_Treachery_of_Whales.dll
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.pdb
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\obj\Debug\net6.0\Day7_The_Treachery_of_Whales.genruntimeconfig.cache
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\example.txt
+C:\Nicki's stuff\GIT\Advent_Of_Code\AdventOfCode2021\AdventOfCode2021\Day7_The_Treachery_of_Whales\bin\Debug\net6.0\input.txt
